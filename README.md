@@ -1,1 +1,1 @@
-(website)[https://stellar.cat]
+[website](https://stellar.cat)
